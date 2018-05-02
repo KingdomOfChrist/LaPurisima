@@ -26,7 +26,7 @@ E.g.:
 2. Run `docker-compose pull`.
 3. Run `docker-compose up -d`.
 
-## Resources
+<!-- ## Resources
 ### List:
 - admins
 - logs  
@@ -60,7 +60,7 @@ E.g.:
 - #### `DELETE /<resource_name>/<id>`
   - Deletes a selected instance wherein the row id is given in the url parameter `id`
 
-- ***NOTE:*** Each model has 2 additional attributes `createdAt` and `updatedAt` which are two timestamp columns which represent creation timestamp, and update timestamp respectively.
+- ***NOTE:*** Each model has 2 additional attributes `createdAt` and `updatedAt` which are two timestamp columns which represent creation timestamp, and update timestamp respectively. -->
 
 ## Contact Details
 Dont hesitate to contact the creator of this project for bugs, errors, queries, inquiries, and job opportunities!
